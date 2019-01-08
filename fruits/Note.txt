@@ -1,0 +1,19 @@
+	1.项目简介
+kky水果系统
+1.1后台录入水果信息
+1.2.前台展示水果,并可以购买
+	2.项目技术
+前台jQuery
+后台Express
+数据库MongoDB
+	3.文件目录结构
+node_modules 	项目下载的依赖;存放所有的项目依赖库
+apps			后台业务
+modules 		自己创建的模块
+public			静态资源(图片,js,css)
+views			视图
+routes 			路由
+app.js			后台主文件/入口,程序从这里开始,应用核心配置文件
+Note.txt 		项目文档
+package.json	项目依赖配置及开发者信息
+	4.
